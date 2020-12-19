@@ -7,23 +7,23 @@ Run `dotnet run` for a dev server. Navigate to `https://localhost:44375/api`. Th
 
 ## API Documentation
 
-Using swagger.
+- Using swagger.
 
 ## API Architecture
 
-Using Onion (Clean) Architecture.
-Using Repository.
-Using UnitOfWork.
+- Using Onion (Clean) Architecture.
+- Using Repository.
+- Using UnitOfWork.
 
-Using EntityFramwork "Code Frist"
+- Using EntityFramwork "Code Frist".
 
 
 
 
 ## API Tools
 
-SQL SERVER 2019
-Visual Studio 2019
+- SQL SERVER 2019.
+- Visual Studio 2019.
 
 
 
