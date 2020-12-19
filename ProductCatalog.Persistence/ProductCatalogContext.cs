@@ -16,6 +16,7 @@ namespace ProductCatalog.Persistence
 
         }
 
+
         public virtual DbSet<Product> Products { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

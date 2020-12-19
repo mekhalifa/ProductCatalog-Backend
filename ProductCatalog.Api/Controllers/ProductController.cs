@@ -21,13 +21,6 @@ namespace ProductCatalog.Api.Controllers
         }
 
 
-        //[HttpGet]
-        //public ActionResult<IEnumerable<Product>> GetProducts()
-        //{
-
-        //    return Ok(_unitOfWork.Products.Get());
-
-        //}
         [HttpGet]
         
         public ActionResult<IEnumerable<Product>> GetProducts([FromQuery]string searchKey)
