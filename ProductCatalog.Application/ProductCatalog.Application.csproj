@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProductCatalog.Domain\ProductCatalog.Domain.csproj" />
+    <ProjectReference Include="..\ProductCatalog.Persistence\ProductCatalog.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
